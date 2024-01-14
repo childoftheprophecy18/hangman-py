@@ -15,5 +15,5 @@ Hangman is a word guessing game where players attempt to guess a secret word by 
 
 ## Implementation
 - I've learned to make ths game using python implementing my journey through Angela Yu Python's 100 days of Code
-- here in this have mentioned lots of comments as making it step ny step process.
+- here in this have mentioned lots of comments as making it step by step process.
 - enjoy playing 🙌😁  
